@@ -1,6 +1,6 @@
 # Riddley - Harry Potter's Magical AI Diary
 
-Riddley is a delightful iOS app that recreates the magical experience of Tom Riddle's diary from Harry Potter and the Chamber of Secrets. Using Claude's advanced AI capabilities, it creates an engaging and interactive journaling experience where the diary responds to your entries with wit and charm, just like Tom Riddle's diary responded to Harry Potter.
+Riddley is an iOS app prototype that recreates the magical experience of Tom Riddle's diary from Harry Potter and the Chamber of Secrets. Using Claude's AI capabilities, it creates an engaging and interactive journaling experience where the diary responds to your entries with wit and charm, just like Tom Riddle's diary responded to Harry Potter.
 
 ## Setup Instructions
 
